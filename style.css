@@ -5,11 +5,13 @@
   }
 
   body{
+    height: 100vh;
+    box-sizing: border-box;
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
   }
 
- strong{
+] strong{
    color: var(--cor-destaque);
  }
 
@@ -19,4 +21,15 @@
     padding: 15px 40px;
     margin: 10px 5px;
     border-radius: 5px;
+ {
+       .apresentacao_link_link
+       border: 2px solid var (--cor-destaque ) :
+
  }
+   .apresentacao{
+     margin: 10% 15%;
+     display: flex;
+     aling-items: center;
+     justify-content: space-between;
+   }
+    
